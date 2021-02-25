@@ -11,7 +11,9 @@
 
 <br>
 
-🚫 N/A
+- Preprocessing
+- Linear Regression
+- Linear Regression with Back Elimination
 
 
 ***
